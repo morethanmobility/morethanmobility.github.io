@@ -1,3 +1,7 @@
+# README
+
+This is the project that is serving `restorativemobility.com`! Edit `index.md` to update your webpage.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/morethanmobility/morethanmobility.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
