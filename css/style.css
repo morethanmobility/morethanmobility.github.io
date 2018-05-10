@@ -147,9 +147,9 @@ p a:hover {
 #body > h2 {
 	color: #21a51e;
 	font-family: 'nixie_oneregular';
-	font-size: 35px;
+	font-size: 25px;
 	font-weight: normal;
-	line-height: 30px;
+	line-height: 20px;
 	margin: 0;
 	padding: 0 0 44px;
 }
