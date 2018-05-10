@@ -174,14 +174,14 @@ p a:hover {
 	line-height: 80px;
 	margin: 0;
 	padding: 0 0 55px;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 }
 #body div#tagline p {
 	color: #21a51e;
 	font-family: 'nixie_oneregular';
 	font-size: 70px;
-	line-height: 800px;
+	line-height: 80px;
 	padding: 43px 0 0;
 	text-align: left;
 }
