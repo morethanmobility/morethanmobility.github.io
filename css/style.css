@@ -169,19 +169,19 @@ p a:hover {
 	background: url(../images/bg-separator.png) no-repeat center bottom;
 	color: #21a51e;
 	font-family: 'nixie_oneregular';
-	font-size: 80px;
+	font-size: 60px;
 	font-weight: normal;
-	line-height: 80px;
+	line-height: 60px;
 	margin: 0;
-	padding: 0 0 55px;
+	padding: 0 0 50px;
 	text-align: center;
 	text-transform: uppercase;
 }
 #body div#tagline p {
 	color: #21a51e;
 	font-family: 'nixie_oneregular';
-	font-size: 70px;
-	line-height: 80px;
+	font-size: 60px;
+	line-height: 70px;
 	padding: 43px 0 0;
 	text-align: left;
 }
