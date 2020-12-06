@@ -80,7 +80,7 @@ p a:hover {
 	text-decoration: none;
 }
 #header h1 a span {
-	color: #f9d2e0;
+	color: #9fd2e0;
 	display: block;
 	font-family: 'nixie_oneregular';
 	font-size: 26px;
@@ -98,7 +98,7 @@ p a:hover {
 	position: relative;
 }
 #header ul#navigation li a {
-	color: #f9d2e0;
+	color: #9fd2e0;
 	font-size: 18px;
 	padding: 0 46px;
 	text-align: center;
@@ -134,7 +134,7 @@ p a:hover {
 	padding: 0 20px;
 }
 #header ul#navigation li.current ul li a {
-	color: #f9d2e0;
+	color: #9fd2e0;
 }
 #body {
 	background: #ffffff;
@@ -260,7 +260,7 @@ p a:hover {
 }
 #body form label input {
 	background: #d1d3d4;
-	border: 1px solid #f9d2e0;
+	border: 1px solid #9fd2e0;
 	color: #315f52;
 	display: block;
 	font-family: 'latoregular';
@@ -272,7 +272,7 @@ p a:hover {
 }
 #body form label textarea {
 	background: #d1d3d4;
-	border: 1px solid #f9d2e0;
+	border: 1px solid #9fd2e0;
 	color: #315f52;
 	display: block;
 	font-family: 'latoregular';
@@ -392,7 +392,7 @@ p a:hover {
 	line-height: 24px;
 }
 #footer div p {
-	color: #f9d2e0;
+	color: #9fd2e0;
 	font-size: 12px;
 	line-height: 30px;
 }
