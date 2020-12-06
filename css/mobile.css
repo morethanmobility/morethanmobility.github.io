@@ -81,7 +81,7 @@
 	#header ul#navigation li a:hover,
 	#header ul#navigation li.current ul li a:hover,
 	#header ul#navigation li.current a {
-		background: rgba(153, 250, 153, 0.8);
+		background: rgba(159, 210, 224, 1);
 		color: #ffffff;
 	}
 	#header ul#navigation > li:first-child > a {
