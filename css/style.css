@@ -140,7 +140,7 @@ p a:hover {
 	background: #ffffff;
 	margin: 1px auto 0;
 	max-width: 720px;
-	min-height: 827px;
+	min-height: 680px;
 	overflow: hidden;
 	padding: 45px 40px 46px;
 }
@@ -174,7 +174,7 @@ p a:hover {
 	line-height: 60px;
 	margin: 0;
 	padding: 0 0 50px;
-	text-align: right;
+	text-align: left;
 	text-transform: uppercase;
 }
 #body div#tagline p {
@@ -377,7 +377,7 @@ p a:hover {
 
 #footer {
 	margin: 0 auto;
-	max-width: 960px;
+	max-width: 720px;
 	overflow: hidden;
 	padding: 30px 0 60px;
 }
