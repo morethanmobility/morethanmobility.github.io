@@ -1,6 +1,6 @@
 
 body {
-	background: #354079;
+	background: #292929;
 	color: #315f52;
 	font-family: 'latoregular';
 	font-size: 14px;
@@ -76,11 +76,11 @@ p a:hover {
 }
 
 #header h1 a {
-	color: #99fa99;
+	color: #00b4e4;
 	text-decoration: none;
 }
 #header h1 a span {
-	color: #b6d8cf;
+	color: #f9d2e0;
 	display: block;
 	font-family: 'nixie_oneregular';
 	font-size: 26px;
@@ -98,7 +98,7 @@ p a:hover {
 	position: relative;
 }
 #header ul#navigation li a {
-	color: #b6d8cf;
+	color: #f9d2e0;
 	font-size: 18px;
 	padding: 0 46px;
 	text-align: center;
@@ -110,7 +110,7 @@ p a:hover {
 	color: #717CB6;
 }
 #header ul#navigation li.current a {
-	color: #99fa99;
+	color: #00b4e4;
 }
 #header ul#navigation li ul {
 	display: none;
@@ -134,7 +134,7 @@ p a:hover {
 	padding: 0 20px;
 }
 #header ul#navigation li.current ul li a {
-	color: #b6d8cf;
+	color: #f9d2e0;
 }
 #body {
 	background: #ffffff;
@@ -260,7 +260,7 @@ p a:hover {
 }
 #body form label input {
 	background: #d1d3d4;
-	border: 1px solid #b6d8cf;
+	border: 1px solid #f9d2e0;
 	color: #315f52;
 	display: block;
 	font-family: 'latoregular';
@@ -272,7 +272,7 @@ p a:hover {
 }
 #body form label textarea {
 	background: #d1d3d4;
-	border: 1px solid #b6d8cf;
+	border: 1px solid #f9d2e0;
 	color: #315f52;
 	display: block;
 	font-family: 'latoregular';
@@ -288,7 +288,7 @@ p a:hover {
 	background: #077054;
 	border: none;
 	border-radius: 5px;
-	color: #99fa99;
+	color: #00b4e4;
 	cursor: pointer;
 	font-family: 'latoregular';
 	font-size: 14px;
@@ -386,13 +386,13 @@ p a:hover {
 	width: 500px;
 }
 #footer div span {
-	color: #99fa99;
+	color: #00b4e4;
 	display: block;
 	font-size: 26px;
 	line-height: 24px;
 }
 #footer div p {
-	color: #b6d8cf;
+	color: #f9d2e0;
 	font-size: 12px;
 	line-height: 30px;
 }
