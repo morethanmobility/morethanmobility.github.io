@@ -155,7 +155,7 @@ p a:hover {
 }
 #body img.figure {
 	display: block;
-	float: center-right;
+	float: right;
 	margin: 37px 19px 23px 0;
 	max-width: 80%;
 	width: 260px;
