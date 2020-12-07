@@ -54,7 +54,7 @@ p a {
 	color: #315f52;
 }
 p a:hover {
-	color: #0F163C;
+	color: #ffc941;
 }
 #header {
 	margin: 0 auto;
@@ -125,7 +125,7 @@ p a:hover {
 	display: block;
 }
 #header ul#navigation li ul li {
-	background: #0F163C;
+	background: #ffc941;
 	display: block;
 	height: 46px;
 	line-height: 46px;
@@ -166,7 +166,7 @@ p a:hover {
 	max-width: 510px;
 }
 #body div#tagline h1 {
-	background: url(../images/bg-separator.png) no-repeat center bottom;
+	background: url(../images/bg-separator.png) no-repeat left bottom;
 	color: #ee3ec9;
 	font-family: 'nixie_oneregular';
 	font-size: 60px;
