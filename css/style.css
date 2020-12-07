@@ -145,7 +145,7 @@ p a:hover {
 	padding: 45px 40px 46px;
 }
 #body > h2 {
-	color: #21a51e;
+	color: #ee3ec9;
 	font-family: 'nixie_oneregular';
 	font-size: 35px;
 	font-weight: normal;
@@ -167,7 +167,7 @@ p a:hover {
 }
 #body div#tagline h1 {
 	background: url(../images/bg-separator.png) no-repeat center bottom;
-	color: #21a51e;
+	color: #ee3ec9;
 	font-family: 'nixie_oneregular';
 	font-size: 60px;
 	font-weight: normal;
@@ -178,7 +178,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #body div#tagline p {
-	color: #21a51e;
+	color: #ee3ec9;
 	font-family: 'nixie_oneregular';
 	font-size: 60px;
 	line-height: 70px;
