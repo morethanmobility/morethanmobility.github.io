@@ -1,7 +1,7 @@
 
 body {
 	background: #292929;
-	color: #315f52;
+	color: #EE3EC9;
 	font-family: 'latoregular';
 	font-size: 14px;
 	margin: 0;
@@ -166,7 +166,7 @@ p a:hover {
 	max-width: 510px;
 }
 #body div#tagline h1 {
-	background: url(../images/RMM-Logo-wh100.gif) no-repeat left bottom;
+	background: url(../images/background.gif) no-repeat left bottom;
 	color: #ee3ec9;
 	font-family: 'nixie_oneregular';
 	font-size: 60px;
