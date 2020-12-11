@@ -142,7 +142,7 @@ p a:hover {
 	max-width: 720px;
 	min-height: 680px;
 	overflow: hidden;
-	padding: 45px 40px 46px;
+	padding: 10px 10px 10px;
 }
 #body > h2 {
 	color: #ee3ec9;
@@ -154,10 +154,10 @@ p a:hover {
 	padding: 0 0 44px;
 }
 #body img.figure {
-	display: block;
+	display: inline-block;
 	float: right;
-	margin: 37px 19px 23px 0;
-	max-width: 80%;
+	margin: 10px 10px 10px 0;
+	max-width: 50%;
 	width: 260px;
 }
 #body div#tagline {
